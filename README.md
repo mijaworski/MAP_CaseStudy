@@ -1,6 +1,6 @@
 # Zalando — AI personal styling (concept prototype)
 
-Live demo: https://<your-username>.github.io/<repo-name>/
+Live demo: [https://<your-username>.github.io/<repo-name>/](https://mapcasestudy.vercel.app)
 
 A self-contained, single-file prototype: `index.html` holds both pages, the 3D avatar and all product images, so nothing else needs to be served.
 
